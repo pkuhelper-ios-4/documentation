@@ -11,9 +11,9 @@ PKU Helper 4 iOS 将不再支持原 PKU Helper iOS 中的下列功能
 
 - 北大未名 BBS 和 PKU Helper 属于完全独立的两个组织，我们并不了解 BBS 内部的技术细节，而 BBS 是一个非常庞大的项目，如果我们试图重新实现一个第三方的 BBS 客户端，不仅会耗费大量的开发成本，而且难以保证能够准确实现 BBS 的一些功能。
 
-#### 北大未名 BBS 客户端 (iOS)
+#### 北大未名 BBS 官方客户端 (iOS)
 
-BBS 目前已经发布了官方版 iOS 客户端，目前仍然在公测期，具体见帖子 [[公告]北大未名BBS iOS版客户端开始公测](https://bbs.pku.edu.cn/v2/post-read.php?bid=29&threadid=17070321)。我个人觉得这一版官方客户端的功能实现、界面布局、操作体验等方面都实现得非常好。
+BBS 已经发布了官方版 iOS 客户端，目前仍然在公测期，具体见帖子 [[公告]北大未名BBS iOS版客户端开始公测](https://bbs.pku.edu.cn/v2/post-read.php?bid=29&threadid=17070321)。我个人觉得这一版官方客户端的功能实现、界面布局、操作体验等方面都做得非常好。
 
 
 PKU 邮箱
