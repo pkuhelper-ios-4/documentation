@@ -1,0 +1,2 @@
+Course Table (Developer Guide)
+=================================
