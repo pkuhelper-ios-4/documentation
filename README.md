@@ -20,20 +20,20 @@
 
 What's New in PKU Helper 4 iOS
 ---------------------------------
-- [New features](/NEW_FEATURES.md)
-- [Deprecated modules](/DEPRECATED_MODULES.md)
+- [新特征](/NEW_FEATURES.md)
+- [不再支持的功能](/DEPRECATED_MODULES.md)
 
 
-User Guide
+用戶指南
 ------------
-- [Installation](/USER_GUIDE_INSTALLATION.md)
-- [User Account](/USER_GUIDE_USER_ACCOUNT.md)
-- [Course Table](/USER_GUIDE_COURSE_TABLE.md)
-- [Score](/USER_GUIDE_SCORE.md)
-- [PKU Hole](/USER_GUIDE_PKU_HOLE.md)
+- [安装](/USER_GUIDE_INSTALLATION.md)
+- [用户账号](/USER_GUIDE_USER_ACCOUNT.md)
+- [课程表](/USER_GUIDE_COURSE_TABLE.md)
+- [成绩查询](/USER_GUIDE_SCORE.md)
+- [北大树洞](/USER_GUIDE_PKU_HOLE.md)
 
 
-Developer Guide
+开发指南
 -----------------
 - [Basic](/DEVELOPER_GUIDE_BASIC.md)
 - [Course Table](/DEVELOPER_GUIDE_COURSE_TABLE.md)
@@ -41,30 +41,36 @@ Developer Guide
 - [PKU Hole](/DEVELOPER_GUIDE_PKU_HOLE.md)
 
 
-Testing Guide
+测试指南
 ------------
-- [Installation](/USER_GUIDE_INSTALLATION.md#TestFlight)
-- [Detail](/TESTING_GUIDE.md)
+- [安装](/USER_GUIDE_INSTALLATION.md#TestFlight)
+- [详细测试说明](/TESTING_GUIDE.md)
 
 
-More Guides
+更多指南
 ------------
 - [Bug Report](/BUG_REPORT.md)
 - [Contribution](/CONTRIBUTION.md)
 
 
-Contact
+更多信息
+------------------
+- [PKU Helper 的历史](/PKU_HELPER_HISTORY.md)
+- [为什么会有 PKU Helper 4 iOS](/WHY_PKU_HELPER_4.md)
+
+
+联系我们
 -------------
-- Official Email: [helper@pku.edu.cn](mailto://helper@pku.edu.cn)
-- Author Email: [zxh2017@pku.edu.cn](mailto://zxh2017@pku.edu.cn)
+- 官方邮箱: [helper@pku.edu.cn](mailto://helper@pku.edu.cn)
+- 作者邮箱: [zxh2017@pku.edu.cn](mailto://zxh2017@pku.edu.cn)
 
 
-PKU Helper Links
+PKU Helper 有关链接
 --------------------
-- [PKU Helper Homepage](https://pkuhelper.pku.edu.cn)
-- [PKU Helper web Github](https://github.com/pkuhelper-web)
+- [PKU Helper 主页](https://pkuhelper.pku.edu.cn)
+- [PKU Helper 网页版 Github](https://github.com/pkuhelper-web)
 
 
 License
 --------------
-PKU Helper 4 iOS is released under the GPL 3.0 license. See LICENSE for details.
+PKU Helper 4 iOS is released under the GPL 3.0 license. See [LICENSE](https://github.com/pkuhelper-ios-4/PKU-Helper-4-iOS/blob/master/LICENSE) for details.
