@@ -59,7 +59,7 @@ What's New in PKU Helper 4 iOS
 - [为什么会有 PKU Helper 4 iOS](/WHY_PKU_HELPER_4.md)
 
 
-联系我们
+联系方式
 -------------
 - 官方邮箱: [helper@pku.edu.cn](mailto://helper@pku.edu.cn)
 - 作者邮箱: [zxh2017@pku.edu.cn](mailto://zxh2017@pku.edu.cn)

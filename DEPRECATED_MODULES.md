@@ -1,6 +1,6 @@
 Deprecated Modules
 ======================
-我参考了上学期发放的调查问卷 [PKUHelper 用户体验调研](/REFERENCE_SURVEY_REPORT_40658589.md) 的反馈结果，再三权衡，最终决定在 PKU Helper 4 iOS 中不再支持原 iOS 客户端中的下列功能
+我参考了上学期发放的调查问卷 [PKUHelper 用户体验调研](/REFERENCE_SURVEY_REPORT_40658589.md) 的反馈结果，再三权衡，最终决定在 PKU Helper 4 iOS 中不再支持原 iOS 客户端中的下列功能。更多的设计考虑请看 [Why PKU Helper 4](/WHY_PKU_HELPER_4.md)。
 
 
 北大未名 BBS
@@ -13,7 +13,7 @@ Deprecated Modules
 
 #### 北大未名 BBS 官方客户端 (iOS)
 
-BBS 已经发布了官方版 iOS 客户端，目前仍然在公测期，具体见帖子 [[公告]北大未名BBS iOS版客户端开始公测](https://bbs.pku.edu.cn/v2/post-read.php?bid=29&threadid=17070321)。我个人觉得这一版官方客户端的功能实现、界面布局、操作体验等方面都做得非常好。
+BBS 已经发布了官方版 iOS 客户端，目前仍然在公测期，具体见帖子 [[公告]北大未名BBS iOS版客户端开始公测](https://bbs.。pku.edu.cn/v2/post-read.php?bid=29&threadid=17070321)。我个人觉得这一版官方客户端的功能实现、界面布局、操作体验等方面都做得非常好。
 
 
 PKU 邮箱
