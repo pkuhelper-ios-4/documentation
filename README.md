@@ -61,8 +61,8 @@ What's New in PKU Helper 4 iOS
 
 联系方式
 -------------
-- 官方邮箱: [helper@pku.edu.cn](mailto://helper@pku.edu.cn)
-- 作者邮箱: [zxh2017@pku.edu.cn](mailto://zxh2017@pku.edu.cn)
+- 官方邮箱: [helper@pku.edu.cn](mailto:helper@pku.edu.cn)
+- 作者邮箱: [zxh2017@pku.edu.cn](mailto:zxh2017@pku.edu.cn)
 
 
 PKU Helper 有关链接
