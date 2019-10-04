@@ -13,7 +13,7 @@ Deprecated Modules
 
 #### 北大未名 BBS 官方客户端 (iOS)
 
-BBS 已经发布了官方版 iOS 客户端，目前仍然在公测期，具体见帖子 [[公告]北大未名BBS iOS版客户端开始公测](https://bbs.。pku.edu.cn/v2/post-read.php?bid=29&threadid=17070321)。我个人觉得这一版官方客户端的功能实现、界面布局、操作体验等方面都做得非常好。
+BBS 已经发布了官方版 iOS 客户端，目前仍然在公测期，具体见帖子 [[公告]北大未名BBS iOS版客户端开始公测](https://bbs.pku.edu.cn/v2/post-read.php?bid=29&threadid=17070321)。我个人觉得这一版官方客户端的功能实现、界面布局、操作体验等方面都做得非常好。
 
 
 PKU 邮箱
@@ -89,3 +89,9 @@ PKU 邮箱
 手势网关
 ----------
 不实用，不再支持。
+
+
+语音树洞
+----------
+不再支持语音树洞的播放和录制发布，你可以在 [网页树洞](https://pkuhelper.pku.edu.cn/hole) 中使用相关功能
+

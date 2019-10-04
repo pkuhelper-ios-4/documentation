@@ -12,3 +12,4 @@ Basic (Developer Guide)
 测试机信息
 -----------
 - iPhone 6 Plus (iOS 12.3 16F156)
+- iPhone SE (iOS 12.4 16G77)
